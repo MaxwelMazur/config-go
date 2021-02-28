@@ -1,5 +1,8 @@
 #!/bin/sh
-tar -C /usr/local -xzf go1.11.4.linux-amd64.tar.gz
+
+# faça o download antes https://golang.org/doc/install?download=go1.16.linux-amd64.tar.gz
+
+tar -C /usr/local -xzf go1.16.linux-amd64.tar.gz
 mkdir ~/.go
 GOROOT=/usr/local/go
 GOPATH=~/.go
