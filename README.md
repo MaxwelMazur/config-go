@@ -3,6 +3,7 @@ após baixar o shell baixe a ultima versão do golang ou de seu interesse link a
 
 de permissão ao shell e inicie
 
-  sudo chmod 777 ./configGo.sh\n
+  sudo chmod 777 ./configGo.sh
+# 
   ./configGo.sh
  
